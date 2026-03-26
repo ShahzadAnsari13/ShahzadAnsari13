@@ -29,7 +29,9 @@
 ![DataStore](https://img.shields.io/badge/DataStore-00C853?style=for-the-badge)
 ![Hilt](https://img.shields.io/badge/Hilt-00C853?style=for-the-badge)
 ![Coroutines](https://img.shields.io/badge/Coroutines-FF9800?style=for-the-badge)
-![Navigation Component](https://img.shields.io/badge/Navigation-4285F4?style=for-the-badge)
+![Navigation Component](https://img.shields.io/badge/Navigation-4285F4?style=for-the-badge)  
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-4CAF50?style=for-the-badge)
+![Complex UI Design](https://img.shields.io/badge/Complex%20UI%20Design-9C27B0?style=for-the-badge)
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
