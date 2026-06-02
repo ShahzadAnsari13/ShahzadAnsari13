@@ -16,7 +16,7 @@
 
 * B.Com student from Ranchi, India
 * Android & Full-Stack Developer
-* Building production-ready Android and Backend applications
+* Built THE KAINCHEE, a full-stack salon booking platform with Android, Node.js, MongoDB, JWT Authentication, Google Maps, and Razorpay integration.
 * Strong focus on Kotlin, MVVM, Clean Architecture, and scalable REST APIs
 * Currently building **THE KAINCHEE**, a complete salon booking platform
 
@@ -40,7 +40,7 @@ Git • GitHub • Postman • Android Studio • VS Code
 
 ## 📊 Achievements
 
-* Solved **220+ DSA Problems**
+* Solved 220+ DSA problems across LeetCode and GeeksforGeeks, including 131 Medium and 41 Hard problems.
 * Built a production-level full-stack application
 * Strong in Sliding Window, Two Pointers, HashMap, Stack, Queue, Recursion, Backtracking, DP, Trees, Trie, Heap, and Graphs
 
