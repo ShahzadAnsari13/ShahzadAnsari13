@@ -15,11 +15,11 @@
 
 ## 🔥 About Me
 
-- B.Com student from Ranchi, India
-- Android & Full-Stack Developer
-- Built **THE KAINCHEE**, a production-grade appointment booking platform
-- Strong focus on Kotlin, MVVM, Clean Architecture, scalable REST APIs, and system design
-- Currently building real-world solutions using Android, Node.js, MongoDB, Redis, and Socket.IO
+* B.Com student from Ranchi, India
+* Android & Full-Stack Developer
+* Built **THE KAINCHEE**, a production-grade appointment booking platform featuring Redis-based concurrency control, real-time slot synchronization, RBAC, and Razorpay integration.
+* Strong focus on Kotlin, MVVM, Clean Architecture, scalable REST APIs, and system design.
+* Currently building **THE KAINCHEE**, a complete appointment booking platform.
 
 ---
 
@@ -41,10 +41,9 @@ Git • GitHub • Postman • Android Studio • VS Code
 
 ## 📊 Achievements
 
-- Solved **220+ DSA problems** across LeetCode and GeeksforGeeks
-- Solved **131 Medium** and **41 Hard** problems
-- Built a production-grade Android & Backend application from scratch
-- Strong in DSA, API Design, Authentication, Concurrency Control, and System Design Basics
+* Solved 220+ DSA problems across LeetCode and GeeksforGeeks, including 131 Medium and 41 Hard problems.
+* Built a production-grade Android & Backend application from scratch.
+* Strong in Sliding Window, Two Pointers, HashMap, Stack, Queue, Recursion, Backtracking, Dynamic Programming, Trees, Trie, Heap, and Graphs.
 
 ---
 
@@ -52,18 +51,20 @@ Git • GitHub • Postman • Android Studio • VS Code
 
 Production-grade appointment booking platform built using Android and Node.js.
 
-### Key Features
+### Features
 
-- OTP & JWT Authentication
-- Role-Based Access Control (RBAC)
-- Redis-Based Concurrency Control
-- Real-Time Slot Synchronization (Socket.IO)
-- Temporary Slot Reservation System
-- Automated Reservation Expiry
-- Concurrent Booking Prevention
-- Google Maps & Places Integration
-- Razorpay Payment Integration
-- Staff Management & Multi-Parlour Support
+* OTP Authentication
+* JWT Authentication
+* Role-Based Access Control (RBAC)
+* Redis-Based Concurrency Control
+* Real-Time Slot Synchronization (Socket.IO)
+* Temporary Slot Reservation System
+* Automated Reservation Expiry
+* Concurrent Booking Prevention
+* Google Maps Integration
+* Razorpay Payment Integration
+* Multi-Parlour Ownership
+* Staff Management
 
 ### 🎥 Demo Video
 
