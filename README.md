@@ -5,9 +5,9 @@
 
 ### Android & Full-Stack Developer
 
-**Kotlin • Android • Node.js • Redis • MongoDB • Clean Architecture**
+**Kotlin • Node.js • Clean Architecture • REST APIs**
 
-🚀 Building production-grade mobile applications, scalable backend systems, and real-time booking platforms.
+🚀 Building production-ready mobile and backend systems.
 
 </div>
 
@@ -17,10 +17,9 @@
 
 - B.Com student from Ranchi, India
 - Android & Full-Stack Developer
-- Specialized in Kotlin, MVVM, Clean Architecture, Node.js, MongoDB, Redis, and REST APIs
-- Built **THE KAINCHEE**, a production-grade appointment booking platform with real-time synchronization, Redis-based concurrency control, role-based access control, Razorpay payments, analytics, and location-based discovery
-- Strong focus on scalable architectures, clean code, and production-ready systems
-- Solved **220+ DSA problems** across LeetCode and GeeksforGeeks
+- Built **THE KAINCHEE**, a production-grade appointment booking platform
+- Strong focus on Kotlin, MVVM, Clean Architecture, scalable REST APIs, and system design
+- Currently building real-world solutions using Android, Node.js, MongoDB, Redis, and Socket.IO
 
 ---
 
@@ -28,11 +27,11 @@
 
 ### Android
 
-Kotlin • MVVM • Clean Architecture • Hilt • Retrofit • OkHttp • Coroutines • Room • DataStore • Navigation Component • XML UI • Material Design • Google Maps API • Places API
+Kotlin • MVVM • Clean Architecture • Hilt • Retrofit • OkHttp • Coroutines • Room • DataStore • Navigation Component • XML UI • Google Maps API • Places API
 
 ### Backend
 
-Node.js • Express.js • MongoDB • Mongoose • Redis • Socket.IO • JWT Authentication • Razorpay • Cloudinary • REST APIs • Cron Jobs • RBAC
+Node.js • Express.js • MongoDB • Redis • Socket.IO • JWT Authentication • Razorpay • Cloudinary • REST APIs • RBAC
 
 ### Tools
 
@@ -42,111 +41,60 @@ Git • GitHub • Postman • Android Studio • VS Code
 
 ## 📊 Achievements
 
-- Solved **220+ DSA problems** including **131 Medium** and **41 Hard**
-- Built a production-grade Android and Backend booking platform
-- Designed concurrency-safe booking workflows using Redis distributed locks and reservation systems
-- Strong in Arrays, Sliding Window, HashMap, Recursion, Backtracking, Dynamic Programming, Trees, Graphs, Trie, and Heap
+- Solved **220+ DSA problems** across LeetCode and GeeksforGeeks
+- Solved **131 Medium** and **41 Hard** problems
+- Built a production-grade Android & Backend application from scratch
+- Strong in DSA, API Design, Authentication, Concurrency Control, and System Design Basics
 
 ---
 
 # 🚀 THE KAINCHEE
 
-Production-grade appointment booking platform built using Android, Node.js, MongoDB, Redis, and Socket.IO.
+Production-grade appointment booking platform built using Android and Node.js.
 
 ### Key Features
 
-#### Authentication & Security
-
-- OTP Authentication
-- JWT Authentication
-- Role-Based Access Control (User, Admin, Parlour Owner, Staff)
-- OTP Abuse Prevention
-- Resend Cooldown & Daily OTP Limits
-
-#### Booking System
-
-- Real-Time Slot Availability
-- Redis-Based Distributed Locking
+- OTP & JWT Authentication
+- Role-Based Access Control (RBAC)
+- Redis-Based Concurrency Control
+- Real-Time Slot Synchronization (Socket.IO)
 - Temporary Slot Reservation System
-- Concurrent Booking Prevention
 - Automated Reservation Expiry
-- Booking Lifecycle Management
-- Staff-Based Slot Allocation
-
-#### Location Services
-
-- Google Maps Integration
-- Google Places API
-- Location-Based Parlour Discovery
-- Address Management
-- Navigation Support
-
-#### Business Features
-
-- Multi-Parlour Ownership
-- Staff Management System
-- Analytics & Reporting
-- Wallet Management
+- Concurrent Booking Prevention
+- Google Maps & Places Integration
 - Razorpay Payment Integration
-- No-Show Handling
+- Staff Management & Multi-Parlour Support
 
-#### Architecture
-
-- MVVM Architecture
-- Clean Architecture
-- Repository Pattern
-- Dependency Injection (Hilt)
-- REST API Architecture
-
----
-
-## 🎥 Demo Video
+### 🎥 Demo Video
 
 https://youtube.com/shorts/mVcTSJBwLGE?si=Kun5t6e6-0twuU7c
 
----
+### 🔗 Repositories
 
-## 🔗 Repositories
-
-### Android Application
-
-Production-grade Android application built with Kotlin, MVVM, Clean Architecture, Hilt, Retrofit, Coroutines, Room, and DataStore.
-
+**Android App**  
 https://github.com/ShahzadAnsari13/the-kainchee-android
 
-### Backend Application
-
-Scalable Node.js backend featuring Redis distributed locking, Socket.IO real-time synchronization, RBAC, JWT authentication, Razorpay integration, and reservation-based booking workflows.
-
+**Backend**  
 https://github.com/ShahzadAnsari13/the-kainchee-backend
 
 ---
 
 ## 📫 Connect With Me
 
-### LinkedIn
-
+**LinkedIn**  
 https://www.linkedin.com/in/shahzad-ansari-306345363
 
-### LeetCode
-
+**LeetCode**  
 https://leetcode.com/ShahzadAnsari13
 
-### GeeksforGeeks
-
+**GeeksforGeeks**  
 https://www.geeksforgeeks.org/profile/sa3423dlrw
 
 ---
 
-## 💼 Open To
+### Open To
 
-- Android Developer
-- Backend Developer
-- Full-Stack Developer
+Android Developer • Backend Developer • Full-Stack Developer
 
 📍 Ranchi, India 🇮🇳
-
----
-
-⭐ Always interested in building scalable systems, solving real-world problems, and learning new technologies.
 ```
