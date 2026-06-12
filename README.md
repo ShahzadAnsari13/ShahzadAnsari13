@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hi there, I'm Shahzad Ansari 👋
@@ -72,23 +71,23 @@ https://youtube.com/shorts/mVcTSJBwLGE?si=Kun5t6e6-0twuU7c
 
 ### 🔗 Repositories
 
-**Android App**  
+**Android App**
 https://github.com/ShahzadAnsari13/the-kainchee-android
 
-**Backend**  
+**Backend**
 https://github.com/ShahzadAnsari13/the-kainchee-backend
 
 ---
 
 ## 📫 Connect With Me
 
-**LinkedIn**  
+**LinkedIn**
 https://www.linkedin.com/in/shahzad-ansari-306345363
 
-**LeetCode**  
+**LeetCode**
 https://leetcode.com/ShahzadAnsari13
 
-**GeeksforGeeks**  
+**GeeksforGeeks**
 https://www.geeksforgeeks.org/profile/sa3423dlrw
 
 ---
@@ -98,4 +97,3 @@ https://www.geeksforgeeks.org/profile/sa3423dlrw
 Android Developer • Backend Developer • Full-Stack Developer
 
 📍 Ranchi, India 🇮🇳
-```
