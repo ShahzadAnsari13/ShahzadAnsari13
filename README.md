@@ -22,9 +22,16 @@ Building production-grade Android applications and scalable backend systems with
 
 ---
 
-### 📊 GitHub Activity
+### 📈 GitHub Stats & Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahzadAnsari13&show_icons=true&theme=dracula" alt="Shahzad's GitHub Stats" />
+  <a href="https://github.com/ShahzadAnsari13">
+    <img src="https://github-readme-stats.vercel.app/api?username=ShahzadAnsari13&show_icons=true&theme=tokyonight&hide_border=true" alt="Shahzad's GitHub Stats" />
+  </a>
+    
+
+  <a href="https://github.com/ShahzadAnsari13">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadAnsari13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 ---
