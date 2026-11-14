@@ -1,48 +1,69 @@
 # Hi, I'm Shahzad Ansari 👋
 
-### Full Stack Android Engineer | Kotlin | Node.js | Remote-Ready
+### Android Engineer | Kotlin | MVVM | Clean Architecture
 
-Building production-grade Android applications and scalable backend systems with a focus on Clean Architecture and high performance.
-
----
-
-### 🚀 Quick Overview
-- 📱 **Android Expert:** Kotlin, MVVM, Clean Architecture, Hilt, Coroutines.
-- ⚙️ **Backend Specialist:** Node.js, Express, MongoDB, Redis, Socket.IO.
-- 🌍 **International Experience:** Qualified Kotlin Engineer at **SME Careers (San Francisco)**.
-- 🧩 **Problem Solver:** 220+ DSA problems solved (LeetCode & GFG).
+I build reliable, scalable Android applications using Kotlin, modern Android architecture, and clean coding principles. I also have hands-on experience developing backend systems and REST APIs.
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🚀 About Me
 
-**Android:** Kotlin, Hilt, Room, DataStore, Coroutines, Flow, Jetpack Navigation.  
-**Backend:** Node.js, Express, MongoDB, Redis, Socket.IO, JWT, REST APIs.  
-**Tools:** Git, GitHub, Postman, Firebase (FCM), Deel.
+- 📱 **Android Development:** Kotlin, Android SDK, MVVM, Clean Architecture, Hilt, Coroutines, Flow.
+- 🏗️ **Mobile Engineering:** Retrofit, Room, DataStore, Navigation Component, Firebase.
+- ⚙️ **Backend Experience:** Node.js, Express.js, MongoDB, Redis, Socket.IO.
+- 🌟 **Published Applications:** Developed two Android applications for THE KAINCHEE, a salon-booking platform subsequently rebranded as AleNear.
+- 💼 **Professional Assessment:** Selected as a Kotlin Engineer at SME Careers through an international technical assessment; contractor onboarding completed, currently available for project assignment.
+- 🧩 **Problem Solving:** 220+ DSA problems solved across LeetCode and GeeksforGeeks.
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 🛠️ Tech Stack
+
+**Android:** Kotlin, Android SDK, MVVM, Clean Architecture, Hilt, Coroutines, Flow, Room, DataStore, Retrofit.
+
+**Backend:** Node.js, Express.js, MongoDB, Redis, Socket.IO, JWT, REST APIs.
+
+**Tools:** Git, GitHub, Postman, Firebase, Razorpay.
+
+---
+
+### 🌟 Featured Projects
+
+**1. THE KAINCHEE → AleNear | Salon Booking Platform**
+
+A salon-booking platform originally developed as THE KAINCHEE and subsequently rebranded as AleNear.
+
+- Native Android customer and partner applications.
+- Kotlin, MVVM, Clean Architecture, Hilt and Retrofit.
+- Backend integrations, payment processing and real-time booking workflows.
+
+[Android Repository](https://github.com/ShahzadAnsari13/the-kainchee-android) | [Backend Repository](https://github.com/ShahzadAnsari13/the-kainchee-backend)
+
+**2. VexarDrive | Fleet Management Application**
+
+Native Android fleet management application developed as part of a technical assessment.
+
+- Kotlin, MVVM, Clean Architecture and Hilt.
+- Authentication, dashboard, vehicle and driver management.
+- REST API integration using Retrofit and OkHttp.
+
+[GitHub Repository](https://github.com/ShahzadAnsari13/vexardrive-fleet-management)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="left">
-  <a href="https://github.com/ShahzadAnsari13">
-    <img src="https://github-readme-stats.vercel.app/api?username=ShahzadAnsari13&show_icons=true&theme=tokyonight&hide_border=true" alt="Shahzad's GitHub Stats" />
-  </a>
-    
-
-  <a href="https://github.com/ShahzadAnsari13">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadAnsari13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahzadAnsari13&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadAnsari13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌟 Featured Project: [The Kainchee](https://github.com/ShahzadAnsari13/the-kainchee-android )
-A production-grade salon booking platform with real-time sync and concurrency control.
-- **Tech:** Kotlin, MVVM, Redis Distributed Locks, Socket.IO, Razorpay.
+### 📫 Connect With Me
 
----
+- [LinkedIn](https://www.linkedin.com/in/shahzad-ansari-306345363)
+- [Portfolio](https://shahzad-ansari-portfolio-dixh.vercel.app/)
+- [LeetCode](https://leetcode.com/ShahzadAnsari13)
+- [GitHub](https://github.com/ShahzadAnsari13)
 
-### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/shahzad-ansari-306345363 ) | [LeetCode](https://leetcode.com/ShahzadAnsari13 ) | [GitHub](https://github.com/ShahzadAnsari13 )
-
----
